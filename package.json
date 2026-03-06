@@ -1,0 +1,12 @@
+{
+  "name": "gdoc",
+  "version": "0.0.1",
+  "description": "A collaborative document editor with version history, similar to google docs",
+  "license": "MIT",
+  "author": "Bharanidharan K, Yazzhini P N",
+  "type": "module",
+  "main": "server.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
